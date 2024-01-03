@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color:white;
+    width:400px;
+    height: auto;
+    border:1px solid salmon;
+    margin:auto;
+    padding:3%   
+}
+img{
+    
+    border-radius: 10%;
+    box-shadow: 15px 15px lightblue;
+
+}
+
+li{
+     margin-left: 5%;
+     color:rgb(80, 90, 109); 
+     
+}
